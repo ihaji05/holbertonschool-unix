@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 6 root root 4096 Jun 16 11:44 .
+drwxr-xr-x 6 root root 4096 Jun 16 11:03 ..
+drwxr-xr-x 8 root root 4096 Jun 16 12:31 .git
+-rwxr-xr-x 1 root root   28 Jun 16 11:27 0-hellofile
+-rwxr-xr-x 1 root root   35 Jun 16 11:27 1-lastlines
+-rwxr-xr-x 1 root root   35 Jun 16 11:27 2-firstlines
+-rwxr-xr-x 1 root root   40 Jun 16 11:27 3-third_line
+-rwxr-xr-x 1 root root   82 Jun 16 11:44 4-cwd_state
+-rw-r--r-- 1 root root    1 Jun 16 11:37 NO
+-rw-r--r-- 1 root root  631 Jun 16 11:29 README.md
+-rw-r--r-- 1 root root  801 Jun 16 11:27 iacta
+-rw-r--r-- 1 root root    0 Jun 16 12:35 ls_cwd_content
+drwxr-xr-x 2 root root 4096 Jun 16 11:27 shell_basics
+drwxr-xr-x 2 root root 4096 Jun 16 11:27 shell_permissions
+drwxr-xr-x 2 root root 4096 Jun 16 11:27 shell_redirections
