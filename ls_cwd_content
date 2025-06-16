@@ -1,0 +1,11 @@
+total 36
+drwxr-xr-x 2 root root 4096 Jun 16 11:25 .
+drwxr-xr-x 6 root root 4096 Jun 16 11:03 ..
+-rwxr-xr-x 1 root root   28 Jun 16 11:01 0-hellofile
+-rwxr-xr-x 1 root root   35 Jun 16 11:08 1-lastlines
+-rwxr-xr-x 1 root root   35 Jun 16 11:11 2-firstlines
+-rwxr-xr-x 1 root root   40 Jun 16 11:17 3-third_line
+-rwxr-xr-x 1 root root   36 Jun 16 11:25 4-cwd_state
+-rw-r--r-- 1 root root  264 Jun 16 11:14 README.md
+-rw-r--r-- 1 root root  801 Jun 16 11:19 iacta
+-rw-r--r-- 1 root root    0 Jun 16 11:25 ls_cwd_content
