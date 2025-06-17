@@ -25,3 +25,6 @@ Script that displays the third line of the file iacta.
 
 ## 4-cwd_state
 Script that writes the result of 'ls -la' into a file named ls_cwd_content, overwriting if it exists.
+
+# Holberton Shell Project
+
