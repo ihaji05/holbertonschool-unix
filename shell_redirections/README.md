@@ -1,1 +1,1 @@
-This script displays the content of /etc/passwd
+This script displays the last 10 lines of /etc/passwd
